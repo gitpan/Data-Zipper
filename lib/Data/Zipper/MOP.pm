@@ -1,6 +1,6 @@
 package Data::Zipper::MOP;
 BEGIN {
-  $Data::Zipper::MOP::VERSION = '0.01';
+  $Data::Zipper::MOP::VERSION = '0.02';
 }
 # ABSTRACT: A zipper for MOP based objects
 

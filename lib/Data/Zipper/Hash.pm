@@ -1,6 +1,6 @@
 package Data::Zipper::Hash;
 BEGIN {
-  $Data::Zipper::Hash::VERSION = '0.01';
+  $Data::Zipper::Hash::VERSION = '0.02';
 }
 # ABSTRACT: A zipper for hash references
 

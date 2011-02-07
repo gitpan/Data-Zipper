@@ -1,6 +1,6 @@
 package Data::Zipper;
 BEGIN {
-  $Data::Zipper::VERSION = '0.01';
+  $Data::Zipper::VERSION = '0.02';
 }
 # ABSTRACT: Easily traverse and transform immutable data
 

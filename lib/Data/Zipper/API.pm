@@ -1,6 +1,6 @@
 package Data::Zipper::API;
 BEGIN {
-  $Data::Zipper::API::VERSION = '0.01';
+  $Data::Zipper::API::VERSION = '0.02';
 }
 
 use warnings FATAL => 'all';
